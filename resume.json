@@ -1,0 +1,89 @@
+{
+  "avatar": {
+    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+    "hidden": false
+  },
+  "profile": {
+    "name": "陈哲",
+    "email": "chenzhe1986@126.com",
+    "mobile": "13814111308",
+    "workExpYear": "10",
+    "positionTitle": "C++开发工程师"
+  },
+  "educationList": [
+    {
+        "edu_time": ["2009.09.01", "2012.06.30"],
+        "school": "华中科技大学",
+        "major": "软件工程",
+        "academic_degree": "硕士"
+    },
+    {
+      "edu_time": ["2004.09.01", "2008.06.30"],
+      "school": "华中科技大学",
+      "major": "软件工程",
+      "academic_degree": "本科"
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "证券从业资格证",
+      "award_time": "2020.11"
+    },
+    {
+      "award_info": "英语 CET6",
+      "award_time": "2015"
+    },
+  ],
+  "workExpList": [
+    {
+      "company_name": "恒生电子股份有限公司",
+      "department_name": "证券两融交易技术组",
+      "work_time": ["2020.05", null],
+      "work_desc": "1. 作为恒生UST极速交易系统报盘组开发负责人，全面负责报盘业务开发和技术框架升级迭代\r\n2. UST报盘和交易核心性能优化相关工作，参加券商POC测试\r\n3. UST交互网关等插件开发，恒生行情服务器迁移Linux、信创国产化等其它工作"
+    },
+    {
+      "company_name": "浙江同花顺智能科技有限公司",
+      "department_name": "快速柜台开发部",
+      "work_time": ["2019.06", "2020.5"],
+      "work_desc": "同花顺快速交易柜台系统的性能调优、业务开发、疑难问题解决等工作\r\n"
+    },
+    {
+      "company_name": "同方威视科技江苏有限公司",
+      "department_name": "",
+      "work_time": ["2017.10", "2019.06"],
+      "work_desc": "海关H986集中审像系统的设计开发工作"
+    },
+    {
+      "company_name": "华为技术有限公司",
+      "department_name": "",
+      "work_time": ["2016.06", "2017.10"],
+      "work_desc": "华为路由器产品l2vpn、vpls等二层业务新功能开发，代码重构和优化，问题定位和修复等工作"
+    },
+    {
+      "company_name": "南京国电南自电网自动化有限公司",
+      "department_name": "",
+      "work_time": ["2012.07", "2016.06"],
+      "work_desc": "1、电网监控系统和远动通信系统的需求分析、设计、编码、问题定位等工作\r\n2. Windows下相关辅助工具的设计和开发工作"
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "恒生UST极速交易系统报盘开发",
+      "project_role": "开发负责人",
+      "project_time": "2020.05 - 2022.09",
+      "project_desc": "UST报盘业务开发和技术框架升级迭代",
+      "project_content": "1. 报盘早期的框架设计和开发 2. 完善报盘支持业务范围 3. 升级LDP平台，支持独立报盘等技术框架升级"
+    },
+    {
+      "project_name": "上海报盘TDS解析加速设计和开发",
+      "project_role": "独立开发",
+      "project_time": "2020.05 - 2020.06",
+      "project_desc": "解析EzOES与接口数据库之间的TDS通讯协议，主动通知报盘程序，降低交易所数据回报的延时",
+      "project_content": "在一个月时间内独立完成TDS协议分析，TDS解析代理程序开发和上海报盘程序改造，最终测试使用TDS解析加速相比报盘轮询数据库平均回报耗时减少约10ms"
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "? Focus on data visualization and analysis\n? 能力项：10年C++开发经验，专业知识扎实，参加过多个大型系统的开发，为人谦虚谨慎，求知欲望强烈，对待工作一丝不苟"
+  }
+}
